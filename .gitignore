@@ -1,0 +1,7 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Keep your actual CV out of version control if it contains private contact details
+# assets/cv/Ariful_Hasan_CV.pdf
